@@ -1,0 +1,54 @@
+[
+    { 
+        "id":1,
+        "name":"REPLACE TIRE",
+        "price":2000,
+        "time":2,
+        "img":"https://i.ibb.co/1X4q7jq/4.jpg",
+        "discription":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis mollitia eaque aut magnam at vitae totam suscipit quae quas aperiam placeat assumenda veniam rem facere, id ipsa officiis nisi perspiciatis."
+    },
+
+    {
+        "id":2,
+        "name":"SERVICING ENGINE",
+        "price":1000,
+        "time":2,
+        "img":"https://i.ibb.co/ThLHPSz/Woman-repairing-a-car-in-auto-repair-shop.jpg",
+        "discription":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis mollitia eaque aut magnam at vitae totam suscipit quae quas aperiam placeat assumenda veniam rem facere, id ipsa officiis nisi perspiciatis."
+    },
+    {
+        "id":3,
+        "name":"CHANGING OIL",
+        "price":2000,
+        "time":2,
+        "img":"https://i.ibb.co/YhYMv55/Mechanic-and-his-assistant-examining-the-car-bottom-with-flash-light-Auto-car-repair-service-center.jpg",
+        "discription":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis mollitia eaque aut magnam at vitae totam suscipit quae quas aperiam placeat assumenda veniam rem facere, id ipsa officiis nisi perspiciatis."
+    },
+
+    {
+        "id":4,
+        "name":"SERVICING ENGINE",
+        "price":5000,
+        "time":1.5,
+        "img":"https://i.ibb.co/ThLHPSz/Woman-repairing-a-car-in-auto-repair-shop.jpg",
+        "discription":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis mollitia eaque aut magnam at vitae totam suscipit quae quas aperiam placeat assumenda veniam rem facere, id ipsa officiis nisi perspiciatis."
+    },
+
+    {
+        "id":5,
+        "name":"CHANGING OIL",
+        "price":4000,
+        "time":1,
+        "img":"https://i.ibb.co/YhYMv55/Mechanic-and-his-assistant-examining-the-car-bottom-with-flash-light-Auto-car-repair-service-center.jpg",
+        "discription":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis mollitia eaque aut magnam at vitae totam suscipit quae quas aperiam placeat assumenda veniam rem facere, id ipsa officiis nisi perspiciatis."
+    },
+
+    { 
+        "id":6,
+        "name":"REPLACE TIRE",
+        "price":3000,
+        "time":1,
+        "img":"https://i.ibb.co/1X4q7jq/4.jpg",
+        "discription":"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Facilis mollitia eaque aut magnam at vitae totam suscipit quae quas aperiam placeat assumenda veniam rem facere, id ipsa officiis nisi perspiciatis."
+    }
+]
