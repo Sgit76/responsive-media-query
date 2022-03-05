@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, Col, Row } from 'react-bootstrap';
+import { Card, Col } from 'react-bootstrap';
 
 const Expert = ({expert}) => {
     const {name , img , expertize} = expert;
